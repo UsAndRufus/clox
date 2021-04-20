@@ -31,9 +31,22 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="chunk.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="chunk.h" />
+		<Unit filename="common.h" />
+		<Unit filename="debug.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="debug.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="memory.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="memory.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

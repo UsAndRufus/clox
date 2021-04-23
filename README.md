@@ -1,6 +1,7 @@
 # clox
 
 C implementation of the Lox language, following the [Crafting Interpreters](http://craftinginterpreters.com/) book.
+See my [jlox repo](https://github.com/UsAndRufus/jlox) for the first half of the book.
 
 ## Progress
     14. Chunks                  ✅

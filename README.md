@@ -5,7 +5,7 @@ See my [jlox repo](https://github.com/UsAndRufus/jlox) for the first half of the
 
 ## Progress
     14. Chunks                  ✅
-    15. A Virtual Machine
+    15. A Virtual Machine       ✅
     16. Scanning on Demand
     17. Compiling Expressions
     18. Types of Values
